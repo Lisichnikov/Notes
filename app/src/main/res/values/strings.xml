@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note1">Заголовок</string>
+    <string name="note2">Заголовок</string>
+    <string name="note3">Заголовок</string>
+    <string name="note4">Заголовок</string>
+    <string name="note5">Заголовок</string>
+    <string name="title_activity_save_notes">SaveNotes</string>
+
+</resources>
